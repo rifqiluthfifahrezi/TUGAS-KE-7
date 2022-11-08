@@ -1,10 +1,12 @@
-Tugas-ke-7 Nama : Rifqi Luthfi Fahrezi
+Tugas-ke-7
+
+Nama : Rifqi Luthfi Fahrezi
 
 NIM : 312210685
 
 Kelas : TI.22.A1
 
-DAFTAR ISI No Description Link 1 Lab 2 : Struktur Kondisi Click Here 2 Lab 3 : Perulangan Click Here 3 Labpy02 Click Here 4 Labpy03 Click Here 5 Author : Yoga Pratama Click Here KONDISI DAN PERULANGAN Lab 2 Struktur Kondisi Latihan 1 • Buat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if!
+DAFTAR ISI No Description Link 1 Lab 2 : Struktur Kondisi Click Here 2 Lab 3 : Perulangan Click Here 3 Labpy02 Click Here 4 Labpy03 Click Here 5 Author : Rifqi Luthfi Fahrezi Click Here KONDISI DAN PERULANGAN Lab 2 Struktur Kondisi Latihan 1 • Buat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if!
 
 Langkah - langkah
 
